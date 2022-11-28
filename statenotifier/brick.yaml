@@ -1,6 +1,6 @@
 name: riverpod_statenotifier
 description: A brick to produce boilerplate code for a riverpod statenotifierprovider..
-
+repository: https://github.com/Winter-Jonas/publicmasonbricks.git
 version: 0.1.0+1
 
 environment:
